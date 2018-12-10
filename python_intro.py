@@ -41,4 +41,5 @@ girls = ['Luisa', 'Mica', 'Tahiel', 'Marilyn']
 
 for name in girls:
 	hi(name)
-	print('Next!')
+	print('Next girl')
+	
